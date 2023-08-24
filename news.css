@@ -2,9 +2,14 @@
 	width:80%;
 	margin: 0 auto;
 }
+body{
+	background-color: rgb(248, 215, 29);
+}
 
 .news {
 	margin: 10px;
 	border: 2px solid lack;
-	background-color: lightblue;
+	background-color: skyblue;
 }
+
+
