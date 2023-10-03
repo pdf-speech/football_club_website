@@ -1,3 +1,4 @@
-FOOTBALL ACEDEMY WEBSITE
+FOOTBALL ACADEMY WEBSITE
 
-LINK: https://risingsunfootballacedemy.netlify.app/
+LINK: https://risingsunfootballacademy.netlify.app/
+
